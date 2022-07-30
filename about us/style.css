@@ -1,0 +1,61 @@
+body {
+	background-image: url("Images/back.jpg");
+}
+
+.about{
+	background-color: whitesmoke;
+	overflow: hidden;
+	text-align: center;
+	padding-left:80px;
+}
+
+.topnav{
+	background-color: whitesmoke;
+	overflow: hidden;
+	text-align: center;
+}
+.topnav a{
+	float: left;
+	color: whitesmoke
+	text-align: center;
+	padding-left: 450px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav	a:hover {
+	background-color: lightskyblue;
+	color: whitesmoke;
+}
+.topnav a:active{
+	background-color: whitesmoke;
+	color: lightskyblue;
+}
+
+.uvod {
+	text-align: center;
+	background-color: skyblue;		
+	opacity: 0.9;
+	border: solid 2px black;
+}
+.font {
+	font-size: 40px;
+	font-family: inherit;
+	padding-left: 15px;
+	padding-top: 3px;
+	text-shadow: 2px 3px gray;
+	letter-spacing: 3px;
+}
+.ikona {
+	float: ;
+}
+.opis {
+	padding-left: 15px;
+	padding bottom: 10px;
+}
+.font2 {
+	font-size: 20px;
+	font-family: initial;
+	padding-left: 15px;
+	padding-top: 3px;;
+	letter-spacing: 3px;
+} 
